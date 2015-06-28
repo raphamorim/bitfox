@@ -1,0 +1,14 @@
+{
+  "name": "BitFox",
+  "description": "Your bitcoin wallet for firefoxOS",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/img/icon-512.png",
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Raphael Amorim",
+    "url": "http://github.com/raphamorim"
+  },
+  "default_locale": "en"
+}
